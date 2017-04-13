@@ -1,0 +1,26 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "Let's learn RxJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VZhyrytskiy/RxJS.git"
+  },
+  "author": "Vitaliy Zhyrytskyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VZhyrytskiy/RxJS/issues"
+  },
+  "homepage": "https://github.com/VZhyrytskiy/RxJS#readme",
+  "dependencies": {
+    "rxjs": "^5.3.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
